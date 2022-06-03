@@ -1,4 +1,4 @@
-# sekerlemeweb
+# JAVA JSP E-COMMERCE WEBSITE 
 Java JSP ile oluşturulmuş basit bir e-ticaret web sitesi
 
 **Admin Paneli**
