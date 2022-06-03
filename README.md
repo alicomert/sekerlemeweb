@@ -1,4 +1,4 @@
-# JAVA JSP E-COMMERCE WEBSITE 
+# JAVA JSP BASİT E-TİCARET WEBSITESİ
 Java JSP ile oluşturulmuş basit bir e-ticaret web sitesi
 
 **Admin Paneli**
