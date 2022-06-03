@@ -1,5 +1,5 @@
 # sekerlemeweb
-Java ile oluşturulmuş basit bir e-ticaret web sitesi
+Java JSP ile oluşturulmuş basit bir e-ticaret web sitesi
 
 **Admin Paneli**
 
